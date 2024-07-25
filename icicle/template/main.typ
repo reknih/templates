@@ -2,4 +2,4 @@
 #show: game
 
 // Move with WASD.
-dddssddswassdsaaa   ad some words some more
+dddssddswassdsaaa   ad some terrific words some more
