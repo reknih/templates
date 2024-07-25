@@ -17,6 +17,6 @@
 
 Dear Joe,
 
-#lorem(99) Let's switch it up
+#lorem(99) Let's switch it way up
 
 Best,
