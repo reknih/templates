@@ -2,4 +2,4 @@
 #show: game
 
 // Move with WASD.
-sdddddswaassdsaaaa
+dddssddswassdsaaaad
