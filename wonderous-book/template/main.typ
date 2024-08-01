@@ -1,7 +1,7 @@
 #import "@preview/wonderous-book:0.1.0": book
 
 #show: book.with(
-  title: [Monas's Playlist],
+  title: [Mona's fantastic Playlist],
   author: "Janet Doe",
   dedication: [for Rachel],
   publishing-info: [
